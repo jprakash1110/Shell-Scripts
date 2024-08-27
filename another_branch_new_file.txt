@@ -1,1 +1,0 @@
-This is new file inside another_branch
